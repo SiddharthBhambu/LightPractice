@@ -5,6 +5,9 @@ Then the first step is to on your bluetooth because the machine works on bluetoo
 then click on the connect button and select the bluetooth of the machine.
 Hopefully it will connect and then it's upon you what discipline you want to Train for,
 You can select the load time as "none, 15s, 30s ,1min.
-and there is also shot dectection you can check your shot history 
+and there is also shot dectection you can check your shot history, 
+It can tell you the shot detection upto 3 deciaml places.
+and you can also set the threashold of the level of sound that it should catch.
+The user can set the brightness from as they want it now has 255 levels of adjustment you can do to it.
 
 
